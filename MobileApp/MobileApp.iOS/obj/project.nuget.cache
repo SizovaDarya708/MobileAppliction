@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j5g4EajJOnwcA/bGXua4eAFfeTh5MC4wAV3YSFP3P7qrCAdXII7Nl32i2seY9lX5seduxhu2uDAiq3TPRNyOAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\darya\\source\\repos\\MobileApp\\MobileApp\\MobileApp.iOS\\MobileApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
